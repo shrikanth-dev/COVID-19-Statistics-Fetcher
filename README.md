@@ -36,15 +36,15 @@ It allows users to select a country from a dynamically populated dropdown and vi
 
 ### Screenshot
 
-![COVID-19 Statistics Fetcher Screenshot](./screenshot.png)
+![COVID-19 Statistics Fetcher Screenshot](COID-19-Statistics-Fetcher.png)
 
 
 ---
 
 ### Links
 
-- Live Site: [COVID-19 Statistics Fetcher Live](https://shrikanth-dev.github.io/TextUtils-App/)
-- Repository: [GitHub Repo](https://github.com/shrikanth-dev/TextUtils-App)
+- Live Site: [COVID-19 Statistics Fetcher Live](https://shrikanth-dev.github.io/COVID-19-Statistics-Fetcher/)
+- Repository: [GitHub Repo](https://github.com/shrikanth-dev/COVID-19-Statistics-Fetcher)
 
 ---
 
